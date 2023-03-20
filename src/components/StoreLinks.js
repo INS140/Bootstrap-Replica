@@ -1,5 +1,6 @@
 import { Fragment } from "react";
 import { Col, Container, Image, Row } from "react-bootstrap";
+import '../css/store-links.css'
 
 export default function StoreLinks(props) {
     return <div>

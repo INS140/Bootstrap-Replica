@@ -1,3 +1,5 @@
+import '../css/banner.css'
+
 export default function IntroBanner() {
     return <div className="intro-banner">
         <div className="country-select-card">

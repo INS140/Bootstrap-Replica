@@ -1,7 +1,6 @@
 import TopBar from './components/TopBar'
 import IntroBanner from './components/IntroBanner'
 import StoreLinks from './components/StoreLinks'
-import './App.css';
 
 const stores = [
   {

@@ -1,4 +1,5 @@
 import { Navbar, Nav } from 'react-bootstrap'
+import '../css/navbar.css'
 
 export default function TopBar() {
     return <Navbar sticky='top' bg="light" expand="lg" style={{paddingRight: '20px', alignItems: 'center'}} >
